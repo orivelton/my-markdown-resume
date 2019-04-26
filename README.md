@@ -1,4 +1,7 @@
+<figure>
 <img src="https://media.licdn.com/dms/image/C4D03AQG8tE8y87GYvQ/profile-displayphoto-shrink_200_200/0?e=1561593600&v=beta&t=eLXMnsbi35UsxvXxwfnn3mksDUT0lIRhFjnwVX6_pMs" align="center">
+</figure>
+
 # Orivelton Cesar
 - Front End Developer (4+ years of experience)
 
