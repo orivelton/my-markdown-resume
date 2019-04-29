@@ -22,4 +22,9 @@ Less,
 HTML,
 CSS.
 
+Carrefour CMS
+Jul 2017 – Dec 2017
+
+Project descriptionParticipação no projeto Carrefour CMS, desenvolvemos componentes para utilização no site, isso sendo cadastrado na plataforma Hybris no HMC.
+
 
